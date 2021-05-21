@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['script.py'],
-             pathex=['C:\\Aqeel\\react\\create-app-script'],
+             pathex=['c:\\Aqeel\\react\\create-app-script'],
              binaries=[],
              datas=[],
              hiddenimports=[],

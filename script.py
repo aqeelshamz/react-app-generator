@@ -16,7 +16,7 @@ print("This may take a couple of minutes.")
 
 os.mkdir(directory_path)
 
-copy_tree('C:/Program Files/react_files/newapp',directory_path)
+copy_tree('C:/Program Files/react_files',directory_path)
 
 print("Modifying package.json..")
 
